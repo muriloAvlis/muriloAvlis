@@ -28,15 +28,15 @@ You can click the Preview link to take a look at your changes.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80px"/> 
 </div> 
 
-## Softwares
+## Platforms
           
 <div>
-          <img src="https://drive.google.com/uc?export=view&id=1LcNfCtzoSB-vooeNFY2OOw515pJuI2X8" width="80px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="80px"/>  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80px" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="80px"/>
+          <a href="#"><img src="https://drive.google.com/uc?export=view&id=1LcNfCtzoSB-vooeNFY2OOw515pJuI2X8" width="80px"/></a>
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80px"/></a>
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="80px"/></a>  
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80px" /></a>
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80px"/>
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="80px"/></a>
 </div>
                     
 ## Contacts
